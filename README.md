@@ -1,7 +1,6 @@
 # Python Basics
-# Python Basics
 
-This repository contains beginner-level Python scripts for learning core programming concepts.
+This repository contains beginner-level Python scripts for learning core programming concepts. Vanilla pthon, no package imports.
 
 ## Topics Covered
 
@@ -13,4 +12,5 @@ This repository contains beginner-level Python scripts for learning core program
 - Lists, Tuples, Dictionaries
 
 ## Author
+
 sethuraman kannan (tensorstrike28)
